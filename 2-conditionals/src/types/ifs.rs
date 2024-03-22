@@ -8,14 +8,4 @@ pub fn ferris_at_beach() {
         "Unknown"
     };
     println!(identifier + "lives at" + habitat);
-
-    
-    /*
-    
-    let identifier = ""
-
-    match 
-
-
-    */
 }
