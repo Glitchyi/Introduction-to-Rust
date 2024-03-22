@@ -1,14 +1,21 @@
-fn main() {
+pub fn ferris_at_beach() {
     identifier = "Ferris";
     habitat = if identifier == "foo" {
         "ocean"
-    } else if identifier == "Ferris" {
+    } eilse if identifier == "Ferris" {
         "ocean && land"
-    } else if identifier == "Ziggy" {
-        "Desert"
     } else {
         "Unknown"
     };
-
     println!(identifier + "lives at" + habitat);
+
+    
+    /*
+    
+    let identifier = ""
+
+    match 
+
+
+    */
 }
